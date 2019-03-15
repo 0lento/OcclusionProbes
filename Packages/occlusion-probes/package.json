@@ -1,0 +1,6 @@
+{
+  "displayName": "Occlusion Probes",
+  "name": "occlusion-probes",
+  "version": "0.0.1",
+  "description": "Unofficial port for Unity's Occlusion Probes, converted into package for easier deployment."
+}
